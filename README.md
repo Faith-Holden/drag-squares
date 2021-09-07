@@ -1,6 +1,6 @@
 # drag-squares
 
-My solution for Chapter  Exercise  of “Introduction to Programming Using Java”.
+My solution for Chapter 6 Exercise 2 of “Introduction to Programming Using Java”.
 
 NOTE: This is a javafx program. It requires the javafx library as a dependency. (See bottom of this README for javafx instructions).
 
